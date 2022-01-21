@@ -1,0 +1,8 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit&family=Saira+Condensed:wght@300;400&family=Saira+Semi+Condensed:wght@100;300&display=swap" rel="stylesheet">
+CSS rules to specify families
+
+font-family: 'Outfit', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+font-family: 'Saira Semi Condensed', sans-serif;
